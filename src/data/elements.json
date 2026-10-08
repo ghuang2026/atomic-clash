@@ -1,0 +1,62 @@
+{
+    "H": {
+        "symbol": "H",
+        "valence": 1
+    },
+    "Li": {
+        "symbol": "Li",
+        "valence": 1
+    },
+    "Be": {
+        "symbol": "Be",
+        "valence": 2
+    },
+    "B": {
+        "symbol": "B",
+        "valence": 3
+    },
+    "C": {
+        "symbol": "C",
+        "valence": 4
+    },
+    "N": {
+        "symbol": "N",
+        "valence": 5
+    },
+    "O": {
+        "symbol": "O",
+        "valence": 6
+    },
+    "F": {
+        "symbol": "F",
+        "valence": 7
+    },
+    "Na": {
+        "symbol": "Na",
+        "valence": 1
+    },
+    "Mg": {
+        "symbol": "Mg",
+        "valence": 2
+    },
+    "Al": {
+        "symbol": "Al",
+        "valence": 3
+    },
+    "Si": {
+        "symbol": "Si",
+        "valence": 4
+    },
+    "P": {
+        "symbol": "P",
+        "valence": 5
+    },
+    "S": {
+        "symbol": "S",
+        "valence": 6
+    },
+    "Cl": {
+        "symbol": "Cl",
+        "valence": 7
+    }
+}
